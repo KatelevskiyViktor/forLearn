@@ -1,7 +1,6 @@
-﻿print('Привет мир!');
-print('Привет всем!');
-print('Привет Мне!');
-print('Привет Мне!');
-print('Привет Мне!');
-print('Доп принт для пожелания!')
+﻿print('Hello world');
+print('Hello everybody');
+print('Hello');
+print('Hello my dear friend');
+
 
